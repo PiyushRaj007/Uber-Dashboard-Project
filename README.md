@@ -11,13 +11,13 @@ To analyze Uber Auto ride data and identify key patterns related to:
 
 ## 💡 Problems Addressed & Solutions
 
-| Problem | Approach & Solution |
-| **1. Lack of clarity on completed vs cancelled rides** | Created clear donut visuals showing percentages of completed, cancelled, and incomplete bookings for quick comparison. |
-| **2. Difficulty tracking monthly performance trends** | Used a dynamic line chart to visualize “Completed Bookings by Month,” helping identify low-performing months (e.g., February). |
-| **3. Unclear revenue contribution from different vehicle types** | Built a bar chart showing “Revenue by Vehicle Type,” revealing that **Auto** dominates earnings while **Uber XL** and **eBike** lag behind. |
-| **4. Need to evaluate customer satisfaction patterns** | Integrated average rating KPIs (4.43★) to track service quality across periods. 
-| **5. No visibility on top-performing locations** | Added a map card highlighting **Ashram** as the area with maximum completed bookings. 
-| **6. Revenue distribution inconsistency** | Added monthly booking value visualization to check for seasonality and ensure steady income flow. 
+Problem | Approach & Solution |
+1. Lack of clarity on completed vs cancelled rides** | Created clear donut visuals showing percentages of completed, cancelled, and incomplete bookings for quick comparison. |
+2. Difficulty tracking monthly performance trends** | Used a dynamic line chart to visualize “Completed Bookings by Month,” helping identify low-performing months (e.g., February). |
+3. Unclear revenue contribution from different vehicle types** | Built a bar chart showing “Revenue by Vehicle Type,” revealing that **Auto** dominates earnings while **Uber XL** and **eBike** lag behind. |
+4. Need to evaluate customer satisfaction patterns** | Integrated average rating KPIs (4.43★) to track service quality across periods. 
+5. No visibility on top-performing locations** | Added a map card highlighting **Ashram** as the area with maximum completed bookings. 
+6. Revenue distribution inconsistency** | Added monthly booking value visualization to check for seasonality and ensure steady income flow. 
 
 ## 🧠 Key Insights
 - 📈 **93K completed rides** generated over **₹52M** in total revenue.  
@@ -33,8 +33,8 @@ To analyze Uber Auto ride data and identify key patterns related to:
 - **Performance Overview**: Completion, Cancellation, and Incompletion visualization.
 
 ## Screenshots :-
-**Page 1 - https://github.com/PiyushRaj007/Uber-Dashboard-Project/blob/main/Snapshot%20of%20Page%201.png
-**Page 2 - https://github.com/PiyushRaj007/Uber-Dashboard-Project/blob/main/Snapshot%20of%20Page%202.png
+ ![Page 1](https://github.com/PiyushRaj007/Uber-Dashboard-Project/blob/main/Snapshot%20of%20Page%201.png)
+ ![Dashboard Preview](https://github.com/PiyushRaj007/Uber-Dashboard-Project/blob/main/Snapshot%20of%20Page%202.png)
   
 ## 🌱 Future Scope
 - Integrate **real-time API data** for live ride updates.  
