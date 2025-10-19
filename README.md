@@ -33,7 +33,8 @@ To analyze Uber Auto ride data and identify key patterns related to:
 - **Performance Overview**: Completion, Cancellation, and Incompletion visualization.
 
 ## Screenshots :-
-**Page 1 - 
+**Page 1 - https://github.com/PiyushRaj007/Uber-Dashboard-Project/blob/main/Snapshot%20of%20Page%201.png
+**Page 2 - 
   
 ## 🌱 Future Scope
 - Integrate **real-time API data** for live ride updates.  
